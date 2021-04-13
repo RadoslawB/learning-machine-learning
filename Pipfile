@@ -17,6 +17,7 @@ ipykernel = "*"
 jupyter = "*"
 numpy = "*"
 pandas = "*"
+plotly = "*"
 
 [requires]
 python_version = "3.8"
