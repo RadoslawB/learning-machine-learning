@@ -17,6 +17,8 @@ ipykernel = "*"
 jupyter = "*"
 numpy = "*"
 pandas = "*"
+torch = "*"
+cufflinks = "*"
 plotly = "*"
 
 [requires]
