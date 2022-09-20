@@ -127,7 +127,7 @@ tqdm==4.60.0
 traitlets==5.0.5
 typer==0.3.2
 typing-extensions==3.7.4.3
-urllib3==1.26.4
+urllib3==1.26.5
 visions==0.6.0
 wasabi==0.8.2
 wcwidth==0.2.5
