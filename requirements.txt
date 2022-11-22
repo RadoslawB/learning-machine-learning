@@ -72,7 +72,7 @@ pathy==0.5.2
 pexpect==4.8.0
 phik==0.11.2
 pickleshare==0.7.5
-Pillow==8.2.0
+Pillow==9.3.0
 plotly==4.14.3
 pluggy==0.13.1
 ply==3.11
